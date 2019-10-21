@@ -6,7 +6,10 @@
 
   1. **Schematics :wrench: :hammer:**
       
-      DHT11 is a non-industrial grade temperature & humidity sensor that can use with Arduino board. Assemble your Arduino & a DHT11 module as the schematics below.
+      DHT11 is a non-industrial grade temperature & humidity sensor that can use with Arduino board. Assemble your Arduino & a DHT11 module as the schematics below. 
+      - DHT11 VCC to Arduino 5V pin
+      - DHT11 GND to Arduino GND
+      - DHT11 signal pin to Arduino digital pin 6.
       
       ![DHT11](./4.png)
 
