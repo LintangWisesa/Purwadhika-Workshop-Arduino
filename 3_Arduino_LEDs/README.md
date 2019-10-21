@@ -78,7 +78,7 @@
 
   - __Done!__ :ballot_box_with_check:
 
-  - __Next material: :fast_forward: *[Arduino & DHT11](link)*__ 
+  - __Next material: :fast_forward: *[Arduino & DHT11](https://github.com/LintangWisesa/Purwadhika-Workshop-Arduino/tree/master/4_Arduino_DHT11)*__ 
 
 #
 

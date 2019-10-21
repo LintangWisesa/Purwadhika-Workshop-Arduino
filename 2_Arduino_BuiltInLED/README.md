@@ -25,7 +25,7 @@
 
   - __Done!__ :ballot_box_with_check:
 
-  - __Next material: :fast_forward: *[Arduino & LEDs](link)*__ 
+  - __Next material: :fast_forward: *[Arduino & LEDs](https://github.com/LintangWisesa/Purwadhika-Workshop-Arduino/tree/master/3_Arduino_LEDs)*__ 
 
 #
 
