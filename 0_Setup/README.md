@@ -55,11 +55,11 @@
 
   No.|Material|Tutorial
   -----|-----|-----
-  0.|Setup _**(please do this before the workshop)**_ :point_right:|_**[click here](link)**_
-  1.|Hello World!|_**[click here](link)**_
-  2.|Arduino's Built-in LED|_**[click here](link)**_
-  3.|Arduino & LEDs|_**[click here](link)**_
-  4.|Arduino & DHT11|_**[click here](link)**_
+  0.|Setup _**(please do this before the workshop)**_ :point_right:|_**[click here](https://github.com/LintangWisesa/Purwadhika-Workshop-Arduino/tree/master/0_Setup)**_
+  1.|Hello World!|_**[click here](https://github.com/LintangWisesa/Purwadhika-Workshop-Arduino/tree/master/1_Hello_World)**_
+  2.|Arduino's Built-in LED|_**[click here](https://github.com/LintangWisesa/Purwadhika-Workshop-Arduino/tree/master/2_Arduino_BuiltInLED)**_
+  3.|Arduino & LEDs|_**[click here](https://github.com/LintangWisesa/Purwadhika-Workshop-Arduino/tree/master/3_Arduino_LEDs)**_
+  4.|Arduino & DHT11|_**[click here](https://github.com/LintangWisesa/Purwadhika-Workshop-Arduino/tree/master/4_Arduino_DHT11)**_
 
 #
 
